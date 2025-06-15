@@ -1,0 +1,33 @@
+header {
+    text-align: center;
+    margin: 20px;
+    border-bottom: 1px solid black;
+}
+
+#content {
+    max-width: 900px;
+    margin: 0 auto;
+}
+
+#intro {
+    font-style: italic;
+}
+h1, h2 {
+    text-align: center;
+}
+h1,
+h2,
+h3,
+h4 {
+    color: #ba372a;
+}
+
+#wrapper {
+    display: flex;
+}
+
+#wrapper article {
+    border: 1px solid black;
+    padding: 10px;
+    margin: 10px;
+}
